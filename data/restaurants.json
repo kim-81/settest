@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "myeongdong-kyoja",
+    "Region": "Myeongdong",
+    "Name": "Myeongdong Kyoja",
+    "Korean": "명동교자",
+    "Cuisine": "Noodles & dumplings",
+    "Description": "A compact menu built around handmade noodle soup and dumplings. A useful introduction to Korean noodle dishes while exploring Myeongdong.",
+    "Menu": "Kalguksu / mandu / bibim guksu",
+    "Address": "서울 중구 명동10길 29",
+    "Source": "https://english.visitseoul.net/eat/Myeongdongkyoja-EN_/8578",
+    "SourceName": "Visit Seoul",
+    "Note": "Check the latest branch address and menu at the source before visiting.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 중구 명동2가",
+    "FoodTypes": [
+      "soup",
+      "noodles",
+      "snacks"
+    ]
+  },
+  {
+    "Id": "hadongkwan",
+    "Region": "Myeongdong",
+    "Name": "Hadongkwan",
+    "Korean": "하동관",
+    "Cuisine": "Beef soup",
+    "Description": "A long-established gomtang restaurant serving beef soup with rice. Consider it for a traditional breakfast or lunch; it can close when the day's soup sells out.",
+    "Menu": "Gomtang / suyuk",
+    "Address": "서울 중구 명동9길 12",
+    "Source": "https://english.visitseoul.net/eat/hadonggwan/ENP005614",
+    "SourceName": "Visit Seoul",
+    "Note": "An early-day option. Confirm today's opening hours before leaving.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 중구 명동1가",
+    "FoodTypes": [
+      "soup"
+    ]
+  },
+  {
+    "Id": "osegyehyang",
+    "Region": "Insadong",
+    "Name": "Osegyehyang",
+    "Korean": "오세계향",
+    "Cuisine": "Vegetarian cooking",
+    "Description": "A vegetarian restaurant with Korean, Chinese and Western dishes, tucked into the Insadong area. Ask staff about ingredients for your particular dietary needs.",
+    "Menu": "See the restaurant's current menu",
+    "Address": "서울 종로구 인사동12길 14-5",
+    "Source": "https://english.visitseoul.net/PalaceArea/Ohsaegyehyang/ENP001670",
+    "SourceName": "Visit Seoul",
+    "Note": "Check break times and closing days. Ingredient and cross-contact information needs confirmation.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 종로구 관훈동",
+    "FoodTypes": [
+      "vegetarian"
+    ]
+  },
+  {
+    "Id": "balwoo",
+    "Region": "Insadong",
+    "Name": "Balwoo Gongyang",
+    "Korean": "발우공양",
+    "Cuisine": "Temple cuisine",
+    "Description": "Explore Korean temple cuisine near the Insadong area. A choice for a planned meal rather than a quick street-food stop.",
+    "Menu": "Temple-cuisine courses; confirm current offerings",
+    "Address": "서울 종로구 우정국로 56",
+    "Source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=138294",
+    "SourceName": "VISITKOREA",
+    "Note": "Check current prices, reservations and dietary requirements directly before booking.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 종로구 견지동",
+    "FoodTypes": [
+      "vegetarian"
+    ]
+  },
+  {
+    "Id": "new-order",
+    "Region": "Hongdae / Yeonnam",
+    "Name": "New Order Club Yeonnam",
+    "Korean": "뉴오더클럽 연남",
+    "Cuisine": "New York-style pizza",
+    "Description": "A pizza stop in Yeonnam near the Hongdae area. The official menu includes half-and-half pizzas and a range of toppings.",
+    "Menu": "Half & half pizza / pepperoni / potato",
+    "Address": "서울 마포구 동교로34길 3",
+    "Source": "https://neworderclub.com/",
+    "SourceName": "Restaurant official website",
+    "Note": "Select the Yeonnam location when checking the menu or directions.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 마포구 연남동",
+    "FoodTypes": [
+      "western"
+    ]
+  },
+  {
+    "Id": "hongyukdo",
+    "Region": "Hongdae / Yeonnam",
+    "Name": "HongYukdo",
+    "Korean": "홍육도",
+    "Cuisine": "Korean BBQ",
+    "Description": "A Hongdae BBQ restaurant featuring aged pork and beef, with staff grilling at the table. An option for travelers wanting to try a Korean barbecue meal.",
+    "Menu": "Aged pork / beef BBQ; check current sets",
+    "Address": "서울 마포구 와우산로21길 20-10",
+    "Source": "https://chinese.visitseoul.net/restaurants/HongYukdo/CNPwvg3wf",
+    "SourceName": "Visit Seoul (Chinese)",
+    "Note": "Confirm minimum orders, current prices and dietary requirements with the restaurant.",
+    "Checked": "2026-10-28",
+    "LocationPath": "서울특별시 마포구 서교동",
+    "FoodTypes": [
+      "grill"
+    ]
+  }
+]
